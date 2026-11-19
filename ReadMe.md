@@ -1,18 +1,120 @@
-# 💫 About Me:
-# 👋 Hi, I'm Rahul Kumar!<br><br>💻 **Computer Engineering Student | Aspiring Data Scientist | AI & ML Enthusiast | Full-Stack Developer**<br><br>🔭 I'm currently working on **AI-powered applications, Data Science projects, Machine Learning models, and open-source contributions.**<br><br>👯 I'm looking to collaborate on **Open-Source Projects, Data Science, AI/ML, and Generative AI applications.**<br><br>🤝 I'm looking for opportunities to contribute to **real-world projects, solve practical problems, and build innovative AI-driven solutions.**<br><br>🌱 I'm currently learning **Python, Machine Learning, Data Analytics, Data Mining, Generative AI, and Data Structures & Algorithms.**<br><br>💬 Ask me about **Python, JavaScript, React.js, Node.js, MongoDB, Data Science, Machine Learning, and Git/GitHub.**<br><br>🚀 Interested in building **AI-integrated web applications, intelligent tools, and data-driven solutions.**<br><br>🌍 Exploring **Open Source, Hackathons, Cloud Technologies, and collaborative software development.**<br><br>⚡ Fun fact: I enjoy turning ideas into real-world projects and learning new technologies by building things.<br><br>### 🎯 My Goals<br>- Become a skilled Data Scientist / AI-ML Engineer.<br>- Make meaningful contributions to open-source communities.<br>- Build impactful projects using AI and Data Science.<br>- Collaborate with developers and learn from the global tech community.<br><br>### 🤝 Let's Connect and Build Something Amazing!
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,11,20,30&height=220&section=header&text=Rahul%20Kumar&fontSize=42&fontAlignY=36&desc=Computer%20Engineering%20Student%20%7C%20Full-Stack%20%26%20AI%20Developer&descAlignY=58&descAlign=50" alt="Rahul Kumar Banner" width="100%" />
+</p>
 
+<p align="center">
+  <a href="https://github.com/rahulkumar128667-blip">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=720&lines=👋+Hi%2C+I'm+Rahul+Kumar!;💻+Computer+Engineering+Student+at+Marwadi+University;⚡+Full-Stack+Developer+(MERN+%2B+.NET);🤖+AI%2C+Machine+Learning+%26+Data+Science+Explorer;🚀+Open+Source+Contributor+%26+Hackathon+Enthusiast" alt="Typing SVG" />
+  </a>
+</p>
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/rahul-kumar-059a25333/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ra.ko774808@gmail.com) 
-
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![PNPM](https://img.shields.io/badge/pnpm-%234a4a4a.svg?style=for-the-badge&logo=pnpm&logoColor=f69220) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=rahulkumar128667-blip&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=rahulkumar128667-blip&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=rahulkumar128667-blip&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<p align="center">
+  <a href="https://www.linkedin.com/in/rahul-kumar-059a25333/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:ra.ko774808@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://github.com/rahulkumar128667-blip">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://maps.google.com/?q=Rajkot,+Gujarat,+India" target="_blank">
+    <img src="https://img.shields.io/badge/Location-Rajkot%2C%20Gujarat%2C%20India-238636?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location" />
+  </a>
+</p>
 
 ---
-[![](https://komarev.com/ghpvc/?username=rahulkumar128667-blip&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### 💫 About Me
+
+```yaml
+name: Rahul Kumar
+title: Computer Engineering Student & Full-Stack / AI Developer
+institution: Marwadi University, Rajkot, India
+passions: [Full-Stack Development, .NET Architecture, Machine Learning, Open Source]
+motto: "Dreaming Big | Working Hard | Learning Something New Everyday"
+```
+
+- 🎓 **Education:** Pursuing **B.Tech in Computer Engineering** at **Marwadi University**, Rajkot, India.
+- 💻 **Specializations:** Full-Stack Web Development, .NET Enterprise Solutions, and AI & Machine Learning.
+- 🔭 **Current Work:** Crafting scalable web applications, training predictive ML models, and participating in hackathons.
+- 🐾 **Flagship Project:** **[PetSathi](https://github.com/rahulkumar128667-blip/PetSathi)** — An open-source community platform created for **NSoC Winter Edition**, connecting pet parents with verified walkers.
+- 🚀 **Full-Stack Project:** **[Taskflow](https://github.com/rahulkumar128667-blip/taskflow)** — A clean, production-ready collaborative task manager built with MongoDB, Express, React, and Node.js.
+- 🌱 **Currently Mastering:** Generative AI pipelines, Deep Learning fundamentals, and Cloud deployments.
+- 👯 **Open to Collaborate On:** Real-world Full-Stack applications, AI/ML tools, Hackathons, and Open-Source projects.
+- 💬 **Ask Me About:** `C#`, `.NET`, `Python`, `React`, `Node.js`, `MongoDB`, `MySQL`, and `Git/GitHub`.
+- ⚡ **Fun Fact:** I love turning complex problem statements into functional, beautiful digital products!
+
+---
+
+### 🛠️ Tech Stack & Skills
+
+<p align="center">
+  <b>Programming Languages</b><br/>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=cs,dotnet,py,js,ts,cpp,c,java,php,html,css" alt="Programming Languages" />
+  </a>
+</p>
+
+<p align="center">
+  <b>Frameworks, Libraries & Runtimes</b><br/>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,flask,bootstrap,tailwind" alt="Frameworks" />
+  </a>
+</p>
+
+<p align="center">
+  <b>Databases, DevOps & Tools</b><br/>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=mongodb,mysql,git,github,postman,vscode,figma" alt="Databases and Tools" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/ADO.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt="ADO.NET" />
+  <img src="https://img.shields.io/badge/Crystal_Reports-006699?style=flat-square&logo=sap&logoColor=white" alt="Crystal Reports" />
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" alt="Power BI" />
+  <img src="https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=canva&logoColor=white" alt="Canva" />
+</p>
+
+---
+
+### 📌 Featured Repositories
+
+| Project | Description | Tech Stack | Link |
+| :--- | :--- | :--- | :---: |
+| 🐾 **PetSathi** | Community pet-care platform for **NSoC Winter Edition** connecting pet owners with trusted caretakers. | `HTML5` `CSS3` `JavaScript` `PHP` `MySQL` | [🔗 View Repo](https://github.com/rahulkumar128667-blip/PetSathi) |
+| 📋 **Taskflow** | Modern collaborative task manager built for seamless team productivity and first open-source contributions. | `MongoDB` `Express` `React` `Node.js` | [🔗 View Repo](https://github.com/rahulkumar128667-blip/taskflow) |
+| 📦 **Inventory Management** | Enterprise-grade inventory module with ADO.NET and complete CRUD operations. | `C#` `.NET` `ADO.NET` `SQL` | [🔗 View Repo](https://github.com/rahulkumar128667-blip/Inventory-Management-Module-using-ADO.NET-and-CRUD-Operations) |
+| 📊 **Placement Dashboard** | Campus placement analytics platform using Data Controls and Crystal Reports. | `C#` `.NET` `Crystal Reports` | [🔗 View Repo](https://github.com/rahulkumar128667-blip/Placement-Dashboard-using-Data-Controls-Crystal-Reports) |
+
+---
+
+### 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rahulkumar128667-blip&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" alt="Rahul's GitHub Stats" width="48%" />
+  <img src="https://streak-stats.demolab.com/?user=rahulkumar128667-blip&theme=radical&hide_border=true" alt="Rahul's GitHub Streak" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahulkumar128667-blip&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" width="60%" />
+</p>
+
+---
+
+### 💡 Daily Dev Inspiration
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Dev Quote" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=rahulkumar128667-blip&color=007acc&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,11,20,30&height=100&section=footer" width="100%" />
+</p>
