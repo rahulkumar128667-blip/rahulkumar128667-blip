@@ -1,11 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,11,20,30&height=220&section=header&text=Rahul%20Kumar&fontSize=42&fontAlignY=36&desc=Computer%20Engineering%20Student%20%7C%20Full-Stack%20%26%20AI%20Developer&descAlignY=58&descAlign=50" alt="Rahul Kumar Banner" width="100%" />
-</p>
-
-<p align="center">
-  <a href="https://github.com/rahulkumar128667-blip">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=720&lines=👋+Hi%2C+I'm+Rahul+Kumar!;💻+Computer+Engineering+Student+at+Marwadi+University;⚡+Full-Stack+Developer+(MERN+%2B+.NET);🤖+AI%2C+Machine+Learning+%26+Data+Science+Explorer;🚀+Open+Source+Contributor+%26+Hackathon+Enthusiast" alt="Typing SVG" />
-  </a>
+  <img src="https://raw.githubusercontent.com/rahulkumar128667-blip/rahulkumar128667-blip/main/assets/header.svg" alt="Rahul Kumar Banner" width="100%" />
 </p>
 
 <p align="center">
@@ -116,5 +110,5 @@ motto: "Dreaming Big | Working Hard | Learning Something New Everyday"
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,11,20,30&height=100&section=footer" width="100%" />
+  <img src="https://raw.githubusercontent.com/rahulkumar128667-blip/rahulkumar128667-blip/main/assets/footer.svg" alt="Footer Wave" width="100%" />
 </p>
