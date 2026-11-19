@@ -23,7 +23,7 @@
 
 ```yaml
 name: Rahul Kumar
-title: Computer Engineering Student & Full-Stack / AI Developer
+title: Computer Engineering Student & Full-Stack / AI Developer / Data Science / Agentic AI 
 institution: Marwadi University, Rajkot, India
 passions: [Full-Stack Development, .NET Architecture, Machine Learning, Open Source]
 motto: "Dreaming Big | Working Hard | Learning Something New Everyday"
