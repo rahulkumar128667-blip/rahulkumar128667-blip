@@ -1,0 +1,114 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 950 170" width="100%" height="100%">
+  <defs>
+    <!-- Background Gradient -->
+    <linearGradient id="quoteBg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0a0f1d" />
+      <stop offset="50%" stop-color="#0e172a" />
+      <stop offset="100%" stop-color="#050814" />
+    </linearGradient>
+
+    <!-- Accent Gradient -->
+    <linearGradient id="quoteAccent" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#38bdf8" />
+      <stop offset="50%" stop-color="#818cf8" />
+      <stop offset="100%" stop-color="#c084fc" />
+    </linearGradient>
+
+    <!-- Subtle Glow -->
+    <filter id="softGlow" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="3" result="blur" />
+      <feComposite in="SourceGraphic" in2="blur" operator="over" />
+    </filter>
+  </defs>
+
+  <style>
+    .quote-label {
+      font-family: 'SF Mono', Monaco, Menlo, 'Courier New', monospace;
+      font-size: 11px;
+      font-weight: 700;
+      letter-spacing: 2px;
+      fill: #38bdf8;
+    }
+    .quote-text {
+      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
+      font-weight: 600;
+      font-size: 19px;
+      fill: #f1f5f9;
+      letter-spacing: 0.2px;
+    }
+    .quote-author {
+      font-family: 'SF Mono', Monaco, 'Courier New', monospace;
+      font-size: 13px;
+      font-weight: 500;
+      fill: #94a3b8;
+    }
+    .quote-mark {
+      font-family: Georgia, serif;
+      font-size: 64px;
+      fill: url(#quoteAccent);
+      opacity: 0.85;
+    }
+
+    /* Smooth animated quote cycling */
+    @keyframes quoteCycle1 {
+      0%, 28% { opacity: 1; transform: translateY(0); }
+      32%, 96% { opacity: 0; transform: translateY(-10px); }
+      100% { opacity: 1; transform: translateY(0); }
+    }
+    @keyframes quoteCycle2 {
+      0%, 30% { opacity: 0; transform: translateY(10px); }
+      34%, 62% { opacity: 1; transform: translateY(0); }
+      66%, 100% { opacity: 0; transform: translateY(-10px); }
+    }
+    @keyframes quoteCycle3 {
+      0%, 64% { opacity: 0; transform: translateY(10px); }
+      68%, 94% { opacity: 1; transform: translateY(0); }
+      98%, 100% { opacity: 0; transform: translateY(10px); }
+    }
+
+    .q-group-1 { animation: quoteCycle1 18s ease-in-out infinite; }
+    .q-group-2 { animation: quoteCycle2 18s ease-in-out infinite; }
+    .q-group-3 { animation: quoteCycle3 18s ease-in-out infinite; }
+  </style>
+
+  <!-- Background Card -->
+  <rect x="2" y="2" width="946" height="166" rx="14" fill="url(#quoteBg)" stroke="#1e293b" stroke-width="1.5" />
+
+  <!-- Top Accent Glow Line -->
+  <path d="M 2 16 Q 475 18 948 16" fill="none" stroke="url(#quoteAccent)" stroke-width="2" opacity="0.9" />
+
+  <!-- Quote Mark Icon -->
+  <text x="36" y="80" class="quote-mark">“</text>
+
+  <!-- Header Category -->
+  <g transform="translate(100, 36)">
+    <circle cx="0" cy="-4" r="3.5" fill="#38bdf8" />
+    <text x="12" y="0" class="quote-label">DATA SCIENCE &amp; AI INSPIRATION</text>
+  </g>
+
+  <!-- Quote 1 -->
+  <g class="q-group-1" transform="translate(100, 78)">
+    <text x="0" y="0" class="quote-text">"Without data, you're just another person with an opinion."</text>
+    <text x="0" y="32" class="quote-author">— W. Edwards Deming, Pioneer of Data-Driven Management &amp; Statistics</text>
+  </g>
+
+  <!-- Quote 2 -->
+  <g class="q-group-2" transform="translate(100, 78)">
+    <text x="0" y="0" class="quote-text">"The goal is to turn data into information, and information into insight."</text>
+    <text x="0" y="32" class="quote-author">— Carly Fiorina, Tech Executive &amp; Innovator</text>
+  </g>
+
+  <!-- Quote 3 -->
+  <g class="q-group-3" transform="translate(100, 78)">
+    <text x="0" y="0" class="quote-text">"Data is the compass that guides intelligent algorithms to real-world impact."</text>
+    <text x="0" y="32" class="quote-author">— Data Science &amp; Machine Learning Philosophy</text>
+  </g>
+
+  <!-- Right Decorative Chip -->
+  <g transform="translate(770, 30)">
+    <rect width="135" height="28" rx="14" fill="#0f172a" stroke="#334155" stroke-width="1" />
+    <text x="67" y="18" text-anchor="middle" font-family="'SF Mono', Monaco, monospace" font-size="11" font-weight="600" fill="#a78bfa">
+      🧠 ML / AI Mindset
+    </text>
+  </g>
+</svg>

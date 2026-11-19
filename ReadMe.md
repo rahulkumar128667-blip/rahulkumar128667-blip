@@ -97,10 +97,10 @@ motto: "Dreaming Big | Working Hard | Learning Something New Everyday"
 
 ---
 
-### 💡 Daily Dev Inspiration
+### 📊 Data Science & Dev Inspiration
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Dev Quote" />
+  <img src="https://raw.githubusercontent.com/rahulkumar128667-blip/rahulkumar128667-blip/main/assets/quote.svg" alt="Data Science & Dev Inspiration" width="100%" />
 </p>
 
 ---
